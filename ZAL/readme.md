@@ -1,0 +1,1 @@
+ZAL - Zaklady algoritmizace
