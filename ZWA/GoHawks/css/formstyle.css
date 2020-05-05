@@ -1,0 +1,67 @@
+.formbody{
+    width: 830px;
+    background-color: red;
+    margin: auto;
+    
+}
+
+form input{
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: 1px black solid;
+    background-color: #fafafa;
+}
+
+.login{
+    background-color: #003399; /* seahawks blue */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.login:hover{
+    background-color: #004499; /* seahawks blue */
+}
+
+.registration{
+    background-color: #009933; /* seahawks blue */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+	margin: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.registration:hover{
+    background-color: #006600; /* seahawks blue */
+}
+
+.policko{
+    height: 23px;
+}
+
+.bad{
+    border-bottom: 2px red solid;
+}
+
+.condition{
+  color: blue;
+}
+
+fieldset{
+	margin: auto;
+	margin-bottom: 10px; 
+	width: 500px;
+	padding-top: 15px;
+    }

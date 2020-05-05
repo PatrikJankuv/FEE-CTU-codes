@@ -1,0 +1,27 @@
+table{
+    text-align: center;
+    margin: auto;
+}
+
+table .win {
+    color: green;
+    font-weight: bold;
+}
+
+table .loss {
+    color: red;
+    font-weight: bold;
+}
+
+table tr td{
+    padding: 5px;
+    
+}
+
+table thead{
+    font-weight: bold;
+}
+
+table .result{
+    font-weight: bold;
+}

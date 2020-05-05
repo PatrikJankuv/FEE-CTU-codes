@@ -1,0 +1,73 @@
+.mainarticle{
+    width: 860px;
+    margin: auto;
+    background-color: white;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.night .content .wall .mainarticle, .night .content .wall .mainarticle h3{
+    width: 860px;
+    margin: auto;
+    background-color: #001233;
+	color: white;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: "Georgia", Times, serif;
+}
+
+a h2{
+    font-size: 2em;
+}
+
+a h3{
+    font-family: "Arial", Sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+    padding: 15px
+	padding-top: 5px;
+}
+
+.mainarticle img{
+    width: 840px;
+    margin: auto;
+}
+
+.article{
+    background-color: white;
+    padding: 15px;
+    clear: left;
+    width: 860px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.night .content .wall .article{
+    background-color: #001233;
+	color: white;
+    padding: 15px;
+    clear: left;
+    width: 860px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+  
+.night .content .wall .article h3{
+	color: white;
+}  
+	
+.article img{
+    float: left;
+    width: 430px;
+    margin-right: 10px;
+}
+    
