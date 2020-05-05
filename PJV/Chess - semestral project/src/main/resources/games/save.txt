@@ -1,0 +1,13 @@
+[br][bn][bb][bq][bk][bb][bn][br]
+[bp][bp][bp][bp][  ][bp][bp][bp]
+[  ][  ][  ][  ][  ][  ][  ][  ]
+[  ][  ][  ][  ][bp][  ][  ][  ]
+[  ][  ][  ][  ][wp][  ][wp][  ]
+[  ][  ][  ][  ][  ][  ][  ][  ]
+[wp][wp][wp][wp][  ][wp][  ][wp]
+[wr][wn][wb][wq][wk][wb][wn][wr]
+
+On turn: [b]
+En passant: [wp4]
+Black time: [174]
+White time: [178]
