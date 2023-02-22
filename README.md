@@ -1,2 +1,2 @@
 # FEE-CTU-codes
-My codes from FEE CTU.
+Some of my codes from FEE CTU. Mainly homeworks.
